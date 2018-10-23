@@ -1,4 +1,4 @@
-# proxy_client-server (Soket Programming)
+# proxy_client-server (Sorket Programming)
 proxy_client_server using c
 
 
